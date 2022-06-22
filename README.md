@@ -48,11 +48,11 @@
 
   
 ### System Design
- Both iOS and Android mobile apps include the Realm mobile database. Your app reads and writes data to and from its Realm database, whether the device is connected to a network or not.
+ MongoDB Realm is a serverless platform and mobile database. MongoDB Realm syncs data in realm time and executes it immediately when data is changed in the user or Atlas database. Both iOS and Android mobile apps include the Realm mobile database. Your app reads and writes data to and from its Realm database, whether the device is connected to a network or not.
 Whenever a device is within network range, Realm synchronizes data with other devices via the Realm backend service.
 MongoDB Realm is also responsible for data synchronization with MongoDB Atlas Cloud.
-   <p align="center">
-<img width="398" alt="image" src="https://user-images.githubusercontent.com/83897840/174522445-223dc2f9-a0bb-4464-b966-c0dd8525a448.png">
+  <p align="center"> 
+ <img width="398" alt="image" src="https://user-images.githubusercontent.com/83897840/174522445-223dc2f9-a0bb-4464-b966-c0dd8525a448.png">
 
 ### Tools used
   <b> Tools that I used to implement the project </b>
