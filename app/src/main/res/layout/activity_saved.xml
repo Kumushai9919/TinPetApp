@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SavedActivity">
+    <LinearLayout
+        android:id="@+id/layoutCat"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animation_cat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:lottie_rawRes="@raw/animcat"
+            app:lottie_loop="true"
+            app:lottie_autoPlay="true"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollablev">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/petInfolayout"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/noPetSaved"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No Pet Saved"
+                android:textSize="50sp"
+                android:textStyle="bold"
+                android:layout_marginTop="100dp"
+                android:gravity="center"
+                android:visibility="visible"/>
+<!--  //from here  -->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_gravity="center">-->
+<!--                <LinearLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="match_parent"-->
+<!--                    android:orientation="vertical"-->
+<!--                    android:background="@drawable/buttonstyle2"-->
+<!--                    android:layout_weight="1">-->
+<!--                    <ImageView-->
+<!--                        android:id="@+id/petImgView"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="match_parent"-->
+<!--                        android:layout_gravity="center"-->
+<!--                        android:src="@drawable/c1" />-->
+<!--                </LinearLayout>-->
+<!--                <LinearLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="match_parent"-->
+<!--                    android:orientation="horizontal"-->
+<!--                    android:layout_weight="5"-->
+<!--                    android:gravity="center">-->
+<!--                    <TextView-->
+<!--                        android:id="@+id/petNameTV"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:textStyle="bold"-->
+<!--                        android:textSize="20sp"-->
+<!--                        android:gravity="center"-->
+<!--                        android:textColor="@color/skyBlue"-->
+<!--                        android:layout_weight="1"-->
+<!--                        android:text="name: "-->
+<!--                        />-->
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/petAgeTV"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:textStyle="bold"-->
+<!--                        android:textSize="20sp"-->
+<!--                        android:layout_weight="1"-->
+<!--                        android:gravity="center"-->
+<!--                        android:textColor="@color/skyBlue"-->
+<!--                        android:text="age: " />-->
+
+<!--                    <TextView-->
+<!--                        android:id="@+id/petTypeTV"-->
+<!--                        android:layout_width="match_parent"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_weight="1"-->
+<!--                        android:textStyle="bold"-->
+<!--                        android:textColor="@color/skyBlue"-->
+<!--                        android:textSize="20sp"-->
+<!--                        android:gravity="center"-->
+<!--                        android:text="type: " />-->
+
+<!--                </LinearLayout>-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_gravity="right">-->
+
+<!--                <Button-->
+<!--                    android:layout_width="150dp"-->
+<!--                    android:layout_height="match_parent"-->
+<!--                    android:text="remove"-->
+<!--                    android:id="@+id/removePetBtn"-->
+<!--                    android:layout_marginRight="10dp"-->
+<!--                    android:background="@drawable/buttonstyle1"/>-->
+
+<!--            </LinearLayout>-->
+
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
