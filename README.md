@@ -1,5 +1,5 @@
  <!-- PROJECT LOGO page -->
- <h3 align="center"> TinPetApp - Android Application using MongoDB Realm</h3> <br>
+ <h3 align="center"> TinPetApp - Android Application using MongoDB Realm <br> <br> 틴펫</h3> <br>
  <p align="center">
   <img width="270" height="430" alt="Screen Shot 2022-06-03 at 5 53 59 PM" src="https://user-images.githubusercontent.com/83897840/171822416-7dcdb593-627a-44c0-b081-ec14b8efc585.png">
   
@@ -68,14 +68,21 @@ MongoDB Realm is also responsible for data synchronization with MongoDB Atlas Cl
     
 ### Prerequisites  
   MongoDB Realm implementation
-  - 1: Create new cluster <br> 
-  - 2: Implement a database and collection
-  - 3: Add connection string into your application code
+  -  Create new cluster <br> 
+  -  Implement a database and collection
+  -  Add connection string into your application code
     
 ### MongoDB Realm Database
     
-Configured petdatas-database in MongoDB Atlas and built pets and users Collection to store data of users and pets. <br>
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/83897840/174953185-f06c1c0e-93de-4136-9b6b-ea705e5c9b01.png">
+  - Configured petdatas-database in MongoDB Atlas and built pets and users Collection to store data of users and pets. 
+    <br>
+    <img width="333" alt="image" src="https://user-images.githubusercontent.com/83897840/174953185-f06c1c0e-93de-4136-9b6b-ea705e5c9b01.png">
+ 
+  - In the App Services created Application-0 in MongoDB Realm, and in the Users section, it shows the current registered users of this app. Each user is      signed up by email and has its own ID.
+    
+   <img width="104" alt="image" src="https://user-images.githubusercontent.com/83897840/174958356-e2a54ed0-bcd4-42ca-bbf2-48e587756576.png"> <img width="232" alt="image" src="https://user-images.githubusercontent.com/83897840/174958377-db31440b-9da3-4931-a79a-051329fa4eb5.png">
+
+
 
     
 ## Features
@@ -83,6 +90,7 @@ Configured petdatas-database in MongoDB Atlas and built pets and users Collectio
 ## Contributing
 
 ## License
+Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 You can contact me here: 
