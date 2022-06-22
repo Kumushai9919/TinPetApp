@@ -1,7 +1,5 @@
-# TinPetApp
-
  <!-- PROJECT LOGO page -->
- <h3 align="center"> TinPet - Android Application using MongoDB Realm</h3>
+ <h3 align="center"> TinPetApp - Android Application using MongoDB Realm</h3> <br>
  <p align="center">
   <img width="270" height="430" alt="Screen Shot 2022-06-03 at 5 53 59 PM" src="https://user-images.githubusercontent.com/83897840/171822416-7dcdb593-627a-44c0-b081-ec14b8efc585.png">
   
@@ -64,8 +62,9 @@ MongoDB Realm is also responsible for data synchronization with MongoDB Atlas Cl
 * Map: <a href="https://www.google.com/maps/" >Google Map</a>
   
 ### RoadMap
-   <p align="center">
-  <img width="887" alt="Screen Shot 2022-06-03 at 5 49 55 PM" src="https://user-images.githubusercontent.com/83897840/171821686-88ff381d-fbc4-448c-bf55-740120fb2abc.png">
+   <p align="center"> 
+    <img width="871" alt="Screen Shot 2022-06-22 at 2 06 35 PM" src="https://user-images.githubusercontent.com/83897840/174947882-bf9c02c7-9472-4841-b758-856daf43e618.png">
+
 
 ## Getting Started
   
