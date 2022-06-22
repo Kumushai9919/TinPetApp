@@ -64,12 +64,17 @@ MongoDB Realm is also responsible for data synchronization with MongoDB Atlas Cl
 ### RoadMap
    <p align="center"> 
     <img width="871" alt="Screen Shot 2022-06-22 at 2 06 35 PM" src="https://user-images.githubusercontent.com/83897840/174947882-bf9c02c7-9472-4841-b758-856daf43e618.png">
-
-
-## Getting Started
-  
+ 
     
 ### Prerequisites 
+    ### Prerequisites
+  MongoDB implementation
+  - 1: Create new cluster <br> 
+  - 2: implement a database and collection
+  - 3: Add connection string into your application code
+  ```JS
+   
+   ```
     
 ### MongoDB Realm Database
     
