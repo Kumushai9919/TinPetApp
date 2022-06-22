@@ -66,18 +66,17 @@ MongoDB Realm is also responsible for data synchronization with MongoDB Atlas Cl
     <img width="871" alt="Screen Shot 2022-06-22 at 2 06 35 PM" src="https://user-images.githubusercontent.com/83897840/174947882-bf9c02c7-9472-4841-b758-856daf43e618.png">
  
     
-### Prerequisites 
-    ### Prerequisites
-  MongoDB implementation
+### Prerequisites  
+  MongoDB Realm implementation
   - 1: Create new cluster <br> 
-  - 2: implement a database and collection
+  - 2: Implement a database and collection
   - 3: Add connection string into your application code
-  ```JS
-   
-   ```
     
 ### MongoDB Realm Database
     
+Configured petdatas-database in MongoDB Atlas and built pets and users Collection to store data of users and pets. <br>
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/83897840/174953185-f06c1c0e-93de-4136-9b6b-ea705e5c9b01.png">
+
     
 ## Features
     
