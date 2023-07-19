@@ -38,6 +38,7 @@
  <!-- ABOUT THE PROJECT -->
 ## About The Project
  Tinpet은 반려동물들이 주변 친구를 찾고 소통하기 위한 애플리케이션으로, MongoDB Realm을 활용하여 사용자의 위치 정보를 기반으로 주변 반려동물 친구를 찾아줍니다. 사용자는 반려동물 정보를 입력하여 메인 페이지에서 마음에 드는 반려동물에 대한 자세한 정보를 확인하고 소통할 수 있습니다. Tinpet은 반려동물 소유자들에게 더 나은 소통 경험을 제공하는 데 초점을 두고 개발되었습니다.
+ 
  There are currently thousands of dating apps on the internet like Tinder where people can connect with each other and find love and friendship. However, there are not many such interesting applications for pets. Our little friends need attention and communication just like humans, so I decided to develop an app that provides  the ability to find friends around by registering pets.<br>
  
  
