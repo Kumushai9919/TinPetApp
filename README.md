@@ -1,8 +1,10 @@
  <!-- PROJECT LOGO page -->
  <h3 align="center"> TinPetApp - Android Application using MongoDB Realm <br> <br> 틴펫</h3> <br>
+
  <p align="center">
   
   <img width="879" alt="Screenshot 2023-07-31 at 5 31 30 PM" src="https://github.com/Kumushai9919/TinPetApp/assets/83897840/31e7cfbb-d305-4aed-9179-e6c151004e5f">
+
 
    
 <!-- Table of Contents  -->
