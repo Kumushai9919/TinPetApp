@@ -1,8 +1,9 @@
  <!-- PROJECT LOGO page -->
  <h3 align="center"> TinPetApp - Android Application using MongoDB Realm <br> <br> 틴펫</h3> <br>
  <p align="center">
-  <img width="270" height="430" alt="Screen Shot 2022-06-03 at 5 53 59 PM" src="https://user-images.githubusercontent.com/83897840/171822416-7dcdb593-627a-44c0-b081-ec14b8efc585.png">
   
+  <img width="879" alt="Screenshot 2023-07-31 at 5 31 30 PM" src="https://github.com/Kumushai9919/TinPetApp/assets/83897840/31e7cfbb-d305-4aed-9179-e6c151004e5f">
+
    
 <!-- Table of Contents  -->
  <details open="open">
@@ -32,7 +33,8 @@
   </ol>
 </details>
  
- 
+
+
  
  
  <!-- ABOUT THE PROJECT -->
@@ -46,7 +48,7 @@
  This application is a project where you can create a user account and enter pet information such as the pet's name, location, photo, and hobbies to find nearby friends through the user's location. If you like a friend, you can click the heart button below the main page picture to save  and view detailed information about that user and view them in the saved section.
  
  <p align="center">
-  <img width="790" alt="Screen Shot 2022-06-03 at 5 53 18 PM" src="https://user-images.githubusercontent.com/83897840/171822313-f048039c-0189-4c23-88c3-980e5f920818.png">
+   <img width="843" alt="Screenshot 2023-07-31 at 7 44 34 PM" src="https://github.com/Kumushai9919/TinPetApp/assets/83897840/73e1dbb9-f3e8-4eb1-9c07-8ee7143c7b1d">
 
   
 ### System Design
